@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I have been wanting to do some modding of Fallout NV. I have some mods for Fallout 4, and Skyrim SE. On my original playthrough of the game, I always wanted some beat up Falout 3 Outcast Power Armor. It seemed appropriate since everyone seems to want to call you an outsider.
+I have been wanting to do some modding of Fallout NV. I have some mods for Fallout 4, and Skyrim SE. On my original playthrough of the game, I always wanted some beat up Fallout 3 Outcast Power Armor. It seemed appropriate since everyone seems to want to call you an outsider.
 
 This is my first attempt at using the FNV 1.4 GECK which is not as advanced as the Fallout 4, or Skyrim SE Creation Kits. The old GECK is the basis for the newer creation kits, but is a lot different.
 
